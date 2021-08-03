@@ -14,7 +14,7 @@ To specifically address the uncertainty of distributed systems at scale, Chaos E
 
 Ulimate Goal : The harder it is to disrupt the steady state, the more confidence we have in the behavior of the system
 
-There are no of tools avaiable in market : pls see the link with pros & cons 
+There are number of tools avaiable in market : pls see the link with pros & cons 
 https://www.gremlin.com/community/tutorials/chaos-engineering-tools-comparison/
 
 # Before you begin this tutorial you need the following: Prerequisites 
